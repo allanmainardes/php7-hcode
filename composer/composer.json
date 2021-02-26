@@ -1,0 +1,15 @@
+{
+    "name": "allanmainardes/composer",
+    "description": "aula sobre composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Allan Mainardes",
+            "email": "fernandomainardes1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
